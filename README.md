@@ -3,6 +3,13 @@ Rest Client for the BugHerd API
 
 
 
+-------
+
+**AAOS Bugherd URL EndPoint:** [https://www.bugherd.com/api_v2/projects/73659/](https://www.bugherd.com/api_v2/projects/73659/)
+
+**API TOKEN:** Private
+
+-------
 
 ### Below is an explanation of the output:
 
